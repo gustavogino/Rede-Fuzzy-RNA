@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1528871434 source:c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<vector>
+	"..\eFLL\FuzzyRule.h"
+	"..\eFLL\FuzzyComposition.h"
+	"..\eFLL\Fuzzy.h"
+	"..\eFLL\FuzzyRuleConsequent.h"
+	"..\eFLL\FuzzyOutput.h"
+	"..\eFLL\FuzzyInput.h"
+	"..\eFLL\FuzzyIO.h"
+	"..\eFLL\FuzzySet.h"
+	"..\eFLL\FuzzyRuleAntecedent.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyrule.h
+	"FuzzyRuleAntecedent.h"
+	"FuzzyRuleConsequent.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyruleantecedent.h
+	<stdlib.h>
+	"FuzzySet.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyset.h
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyruleconsequent.h
+	<stdlib.h>
+	"FuzzySet.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzycomposition.h
+	<stdlib.h>
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzy.h
+	<inttypes.h>
+	"FuzzyInput.h"
+	"FuzzyOutput.h"
+	"FuzzyRule.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyinput.h
+	"FuzzyIO.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyio.h
+	<stdlib.h>
+	"FuzzySet.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyoutput.h
+	"FuzzyIO.h"
+	"FuzzyComposition.h"
+
+1527257472 source:c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzy.cpp
+	"Fuzzy.h"
+
+1527257472 source:c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzycomposition.cpp
+	"FuzzyComposition.h"
+	<math.h>
+
+1527257472 source:c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyinput.cpp
+	"FuzzyInput.h"
+
+1527257472 source:c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyio.cpp
+	"FuzzyIO.h"
+
+1527257472 source:c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyoutput.cpp
+	"FuzzyOutput.h"
+
+1527257472 source:c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyrule.cpp
+	"FuzzyRule.h"
+
+1527257472 source:c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyruleantecedent.cpp
+	"FuzzyRuleAntecedent.h"
+
+1527257472 source:c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyruleconsequent.cpp
+	"FuzzyRuleConsequent.h"
+
+1527257472 source:c:\users\patrick hoeckler\desktop\ia\fuzzy\carrinho\fuzzyset.cpp
+	"FuzzySet.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\efll\fuzzyrule.h
+	"FuzzyRuleAntecedent.h"
+	"FuzzyRuleConsequent.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\efll\fuzzyruleantecedent.h
+	<stdlib.h>
+	"FuzzySet.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\efll\fuzzyset.h
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\efll\fuzzyruleconsequent.h
+	<stdlib.h>
+	"FuzzySet.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\efll\fuzzycomposition.h
+	<stdlib.h>
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\efll\fuzzy.h
+	<inttypes.h>
+	"FuzzyInput.h"
+	"FuzzyOutput.h"
+	"FuzzyRule.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\efll\fuzzyinput.h
+	"FuzzyIO.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\efll\fuzzyio.h
+	<stdlib.h>
+	"FuzzySet.h"
+
+1527257472 c:\users\patrick hoeckler\desktop\ia\fuzzy\efll\fuzzyoutput.h
+	"FuzzyIO.h"
+	"FuzzyComposition.h"
+

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1526701454 source:c:\users\aluno\desktop\carrinho\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<conio.h>
+	"neural_net.h"
+
+1526699027 c:\users\aluno\desktop\carrinho\neural_net.h
+	<vector>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<limits>
+	<algorithm>
+
+1527355780 source:c:\d\dsdg\pastas importantes\programacao\projects\carrinho\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<conio.h>
+	"neural_net.h"
+
+1526699028 c:\d\dsdg\pastas importantes\programacao\projects\carrinho\neural_net.h
+	<vector>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<limits>
+	<algorithm>
+
+1528323884 source:d:\new folder\ia\rna\carrinho\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<conio.h>
+	"neural_net.h"
+
+1526699028 d:\new folder\ia\rna\carrinho\neural_net.h
+	<vector>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<limits>
+	<algorithm>
+
